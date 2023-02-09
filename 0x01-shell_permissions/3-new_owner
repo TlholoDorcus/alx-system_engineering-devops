@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 sudo chown betty hello
+=======
+sudo chown betty 3-new_owner
+>>>>>>> ff2fd3cad6ea08eafcda1460f664942661dd337e
