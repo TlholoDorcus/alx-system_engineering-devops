@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo Hello `whoami`
+sudo echo Hello `id -un`
